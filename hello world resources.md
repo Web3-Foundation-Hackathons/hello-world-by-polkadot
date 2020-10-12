@@ -1,7 +1,7 @@
 # General resources
 The below list encompasses a multitude of different resources developers can use during the Hello World! By Polkadot event. 
  
-##Kusama and Polkadot
+## Kusama and Polkadot
 
 - [Polkadot Wiki](https://wiki.polkadot.network/docs/en/build-index)
 - [Kusama Wiki](https://guide.kusama.network/)
