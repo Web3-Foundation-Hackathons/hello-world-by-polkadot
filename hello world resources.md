@@ -29,7 +29,7 @@ The below list encompasses a multitude of different resources developers can use
 - [Web3 Foundation Technical Education Youtube explainers](https://www.youtube.com/playlist?list=PLOyWqupZ-WGuAuS00rK-pebTMAOxW41W8)
 - [Parity Technologies YouTube channel](https://www.youtube.com/channel/UCSs5vZi0U7qHLkUjF3QnaWg/featured)
 - [Intro to Substrate codebase and FRAME pallet](https://www.youtube.com/watch?v=5PSllaWbYag)
-- [Substrate Seminar playlist from weekly tutorial calls](https://www.youtube.com/playlist?list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS=
+- [Substrate Seminar playlist from weekly tutorial calls](https://www.youtube.com/playlist?list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS)
 - [Substrate tutorial videos](https://www.youtube.com/watch?v=qaykNPHJcyw)
 - [Polkadot and Kusama Technical Explainers](https://www.youtube.com/playlist?list=PLOyWqupZ-WGuAuS00rK-pebTMAOxW41W8)
 
