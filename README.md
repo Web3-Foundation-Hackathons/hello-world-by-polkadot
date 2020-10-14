@@ -25,11 +25,11 @@ The challenges are in four categories: (1) Beginner, (2) Intermediate, (3) Advan
 Everyone successfully solving any challenge and receiving a payout will also get an awesome piece of Polkadot swag as well as a Kusama-based NFT, issued via [RMRK](https://rmrk.app/).
 
 ## Deadlines
-Open registrations: October 8th
-Challenges go live: October 15th
-Duration: 4 weeks
-End: November 12th, or after all challenges are solved
-Prize distribution period: up to two weeks after the event
+- Open registrations: October 8th
+- Challenges go live: October 15th
+- Duration: 4 weeks
+- End: November 12th, or after all challenges are solved
+- Prize distribution period: up to two weeks after the event
 
 -----------------------------------------
 
