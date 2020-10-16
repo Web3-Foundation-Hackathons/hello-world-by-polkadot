@@ -1,0 +1,10 @@
+import { ApiInterfaceRx } from '@polkadot/api/types';
+import { ReferendumInfo, ReferendumInfoTo239 } from '@polkadot/types/interfaces';
+import { DeriveReferendum, DeriveReferendumVotes } from '../types';
+import BN from 'bn.js';
+import { Observable } from 'rxjs';
+import { Option } from '@polkadot/types';
+export declare function _referendumVotes(instanceId: string, api: ApiInterfaceRx): (referendum: DeriveReferendum) => Observable<DeriveReferendumVotes>;
+export declare function _referendumsVotes(instanceId: string, api: ApiInterfaceRx): (referendums: DeriveReferendum[]) => Observable<DeriveReferendumVotes[]>;
+export declare function _referendumInfo(instanceId: string, api: ApiInterfaceRx): (index: BN, info: Option<ReferendumInfo | ReferendumInfoTo239>) => Observable<DeriveReferendum | null>;
+export declare function referendumsInfo(instanceId: string, api: ApiInterfaceRx): (ids: BN[]) => Observable<DeriveReferendum[]>;
