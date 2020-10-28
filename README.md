@@ -1,5 +1,5 @@
 I have successfully completed, at minimum, 18 challenges! 
-Here is my submission, as requested.
+Here is my submissions, as requested.
 
 Note: I attempted to maintain order as best as I could, though some challenge had hiccups along the way. So I would start, skip, and come back to them later once it was solvable. 
 
@@ -17,7 +17,7 @@ Note: I attempted to maintain order as best as I could, though some challenge ha
 12. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/39
 13. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/40
 14. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/41
-15. a
+15. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/42
 16. a
 17. a
 18. a
