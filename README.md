@@ -2,5 +2,5 @@
 * https://github.com/staketechnologies/hello-world-by-polkadot/issues/6
 
 # Submission:
-* Contract Address:  `YqFy5k92UC3TvMv27grFE6hSmpPYmfXwRD2wibBmmckXMHa`
-
+* Contract Address Flipper:  `YqFy5k92UC3TvMv27grFE6hSmpPYmfXwRD2wibBmmckXMHa`
+* Contract Address   ERC20: `W3gsiwxnQLXqmEx4TUwcyEM9GHzvatCtUNtSvxQabGthJjg`
