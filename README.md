@@ -19,5 +19,5 @@ Note: I attempted to maintain order as best as I could, though some challenge ha
 14. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/41
 15. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/42
 16. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/46
-17. a
+17. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/47
 18. a
