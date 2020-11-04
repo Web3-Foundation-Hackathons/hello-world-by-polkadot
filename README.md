@@ -1,36 +1,41 @@
-![](https://user-images.githubusercontent.com/48550657/95865108-8f7b9b80-0d66-11eb-97c5-e52360f196f8.png)
+I have successfully completed, at minimum, 18 challenges! 
+Here is my submissions, as requested.
 
+Note: I attempted to maintain order as best as I could, though some challenge had hiccups along the way. So I would start, skip, and come back to them later once it was solvable. 
 
-# [Hello World! by Polkadot](https://gitcoin.co/hackathon/polkadot/onboard?utm_source=github&utm_medium=referral&utm_campaign=hello+world)
-
-**Gitcoin has integrated [Polkadot](https://polkadot.network/) and [Kusama](https://kusama.network/) tokens (DOT and KSM) into its tech stack**, making them one of the first full integrations outside of the Ethereum ecosystem.
-
-To celebrate the integration on Gitcoin, we are organising **[Hello World! by Polkadot](https://gitcoin.co/hackathon/polkadot/onboard?utm_source=github&utm_medium=referral&utm_campaign=hello+world)**, a series of challenges to bring you on a journey of Polkadot development discovery.
-
-**[Check out the kick-off webinar for more details and information.](https://www.crowdcast.io/e/gitcoin-hello-world-by-polkadot)**
-
-## Challenges and prizes 
-
-The challenges are in four categories: (1) Beginner, (2) Intermediate, (3) Advanced, and (4) Ecosystem. The first three are written specifically for Polkadot and Kusama, whereas the Ecosystem category is made up of challenges created by Polkadot ecosystem projects. Challenge payouts are capped at 50, meaning that only the first fifty valid submissions will receive a payout.
-
-| Challenge  | #  | Prize  | Cap  |
-|---|---|---|---|
-| Beginner  |  7  | 3 DOT  |  50 |
-| Intermediate  | 5   | 1 KSM  | 50  |
-| Advanced  | 4  | 10 DOT  | 50  |
-| Ecosystem  | 8   | 5 DOT  | 50  |
-
-### **In addition, there is an EXTRA PRIZE of 150 DOT for the first 50 that manage to complete 18 or more challenges.**
-
-Everyone successfully solving any challenge and receiving a payout will also get an awesome piece of Polkadot swag as well as a Kusama-based NFT, issued via [RMRK](https://rmrk.app/).
-
-## Deadlines
-- Open registrations: October 8th
-- Challenges go live: October 15th
-- Duration: 4 weeks
-- End: November 12th, or after all challenges are solved
-- Prize distribution period: up to two weeks after the event
-
------------------------------------------
-
-## [Head over to Hello World! by Polkadot and solve some awesome challenges!](https://gitcoin.co/hackathon/polkadot/onboard?utm_source=github&utm_medium=referral&utm_campaign=hello+world)
+## [BEGINNER CHALLENGE] Launch a local Substrate development chain
+1. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/26
+## [BEGINNER CHALLENGE] Run a private Substrate network
+2. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/27
+## [BEGINNER CHALLENGES] Play with Westend
+3. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/28
+## [BEGINNER CHALLENGES] Front-End Javascript
+4. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/30
+## [BEGINNER CHALLENGES] Back-End Javascript
+5. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/32
+## [BEGINNER CHALLENGE] Set an identity on Kusama or Polkadot's development version
+6. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/29
+## [BEGINNER CHALLENGE] Run a Kusama or Polkadot node and add it to Telemetry
+7. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/31
+## [ECOSYSTEM CHALLENGE] (Beginner) Build and Run a Local Phala Network
+8. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/34
+## [ECOSYSTEM CHALLENGE] Using Remix and MetaMask on Moonbeam
+9. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/35
+## [ECOSYSTEM CHALLENGE] Deploy on Moonbase Alpha using Truffle
+10. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/36
+## [INTERMEDIATE CHALLENGE] Forkless Upgrades 
+11. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/38
+## [INTERMEDIATE CHALLENGE] FRAME Identity: Set an identity on a local --dev chain
+12. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/39
+## [INTERMEDIATE CHALLENGE] Smart contracts - write an ERC-20 smart contract with ink!
+13. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/40
+## [ECOSYSTEM CHALLENGE] Enable NFT Support
+14. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/41
+## [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support
+15. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/42
+## [BEGINNER CHALLENGE] Deploying Solidity Contract on Plasm Network V1
+16. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/46
+## [INTERMEDIATE CHALLENGE] FRAME Development
+17. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/47
+## [INTERMEDIATE CHALLENGE] FRAME Multisig
+18. https://github.com/Polkadot-Network/hello-world-by-polkadot/pull/51
