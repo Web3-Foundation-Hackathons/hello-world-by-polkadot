@@ -1,11 +1,16 @@
 {
-  "name": "submission",
+  "name": "sub",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/r1oga/hello-world-by-polkadot",
-  "author": "r1oga",
   "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
   "dependencies": {
-    "@polkadot/api": "^2.5.1"
+    "@polkadot/api": "^2.5.1",
+    "@polkadot/types": "^2.5.1",
+    "@types/inquirer": "^7.3.1",
+    "inquirer": "^7.3.3"
   }
 }
