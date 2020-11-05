@@ -1,5 +1,5 @@
 # Hackathon: Hello World! by Polkadot
-## [BEGINNER CHALLENGES] Back-End Javascript
+## [ CHALLENGES] Challenge title
 
 ### Getting started
 
