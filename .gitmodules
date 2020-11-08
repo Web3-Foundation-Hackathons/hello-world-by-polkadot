@@ -1,0 +1,6 @@
+[submodule "submission/substrate-node-template"]
+	path = submission/substrate-node-template
+	url = git@github.com:r1oga/substrate-node-template.git
+[submodule "submission/substrate-front-end-template"]
+	path = submission/substrate-front-end-template
+	url = git@github.com:r1oga/substrate-front-end-template.git
