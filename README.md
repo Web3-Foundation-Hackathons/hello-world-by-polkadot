@@ -9,5 +9,39 @@ Supporting documentation for my submission.
 ## Contents
 
 1. [Challenge 1](#challenge-1)
+1. [Challenge 6](#challenge-6)
+1. [Challenge 11](#challenge-11)
+1. [Challenge 12](#challenge-12)
+1. [Challenge 15](#challenge-15)
+1. [Challenge 16](#challenge-16)
+1. [Challenge 17](#challenge-17)
+1. [Authors](#authors)
+1. [License](#license)
+1. [Acknowledgements](#acknowledgements)
+
 
 ## Challenge 1
+
+## Challenge 6
+
+## Challenge 11
+
+## Challenge 12
+
+## Challenge 15
+
+## Challenge 16
+
+## Challenge 17
+
+## Authors
+
+* **PK Rasam** - *Initial work* - [pkrasam](https://github.com/pkrasam)
+
+## License
+
+This is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details. For the list of projects that were used to build this, please do refer to their individual license terms.
+
+## Acknowledgments
+
+* [PK Rasam](https://github.com/pkrasam)
