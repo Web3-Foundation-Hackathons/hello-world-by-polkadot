@@ -22,17 +22,30 @@ Supporting documentation for my submission.
 
 ## Challenge 1
 
+...link to sub-dir
+
 ## Challenge 6
+...link to sub-dir
 
 ## Challenge 11
 
+...link to sub-dir
+
 ## Challenge 12
+
+...link to sub-dir
 
 ## Challenge 15
 
+...link to sub-dir
+
 ## Challenge 16
 
+...link to sub-dir
+
 ## Challenge 17
+
+...link to sub-dir
 
 ## Authors
 
