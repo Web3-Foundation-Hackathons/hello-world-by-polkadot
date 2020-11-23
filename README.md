@@ -10,7 +10,7 @@ Supporting documentation for my submission.
 
 1. [Challenge 1: Deploy On Moonbase Alpha Using Truffle](#challenge-1)
 1. [Challenge 6: Deploying Solidity Contract On Plasm Network](#challenge-6)
-1. [Challenge 11](#challenge-11)
+1. [Challenge 11: Set An Identity On Kusama Or Polkadot's Development Version](#challenge-11)
 1. [Challenge 12](#challenge-12)
 1. [Challenge 15](#challenge-15)
 1. [Challenge 16](#challenge-16)
@@ -32,7 +32,7 @@ Deploying Solidity Contract On Plasm Network
 
 ## Challenge 11
 
-...link to sub-dir
+Set An Identity On Kusama Or Polkadot's Development Version ...[for more details, check here](11/README.md)
 
 ## Challenge 12
 
