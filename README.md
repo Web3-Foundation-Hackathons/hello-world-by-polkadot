@@ -22,7 +22,7 @@ Supporting documentation for my submission.
 
 ## Challenge 1
 
-...link to sub-dir
+[for more details, check here](1/README.md)
 
 ## Challenge 6
 ...link to sub-dir
