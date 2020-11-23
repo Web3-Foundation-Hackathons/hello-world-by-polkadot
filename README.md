@@ -8,7 +8,7 @@ Supporting documentation for my submission.
 
 ## Contents
 
-1. [Challenge 1](#challenge-1)
+1. [Challenge 1: Deploy On Moonbase Alpha Using Truffle](#challenge-1)
 1. [Challenge 6](#challenge-6)
 1. [Challenge 11](#challenge-11)
 1. [Challenge 12](#challenge-12)

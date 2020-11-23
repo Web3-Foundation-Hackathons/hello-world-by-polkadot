@@ -1,10 +1,17 @@
-Steps
+## Challenge: Deploy On Moonbase Alpha Using Truffle
+
+https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023953
+
+## Solution
+
+### Steps
+
 - build and run a standalone node in dev mode
 - edit and compile ERC20 solidity contract
-- deploy 
+- deploy the compliled contract
 
 
-Outputs
+### Outputs
 
 ```
 ❯ node_modules/.bin/truffle compile
@@ -29,14 +36,11 @@ Compiling your contracts...
 ===========================
 > Everything is up to date, there is nothing to compile.
 
-
-
 Starting migrations...
 ======================
 > Network name:    'development'
 > Network id:      43
 > Block gas limit: 0 (0x0)
-
 
 2_deploy_contracts.js
 =====================
@@ -67,5 +71,5 @@ Summary
 ```
 
 
-Resources
+### Resources
 moonbeam https://github.com/PureStake/moonbeam
