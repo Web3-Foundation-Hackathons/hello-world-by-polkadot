@@ -9,7 +9,7 @@ Supporting documentation for my submission.
 ## Contents
 
 1. [Challenge 1: Deploy On Moonbase Alpha Using Truffle](#challenge-1)
-1. [Challenge 6](#challenge-6)
+1. [Challenge 6: Deploying Solidity Contract On Plasm Network](#challenge-6)
 1. [Challenge 11](#challenge-11)
 1. [Challenge 12](#challenge-12)
 1. [Challenge 15](#challenge-15)
@@ -22,10 +22,13 @@ Supporting documentation for my submission.
 
 ## Challenge 1
 
+Deploy On Moonbase Alpha Using Truffle
 [for more details, check here](1/README.md)
 
 ## Challenge 6
-...link to sub-dir
+
+Deploying Solidity Contract On Plasm Network
+[for more details, check here](6/README.md)
 
 ## Challenge 11
 
