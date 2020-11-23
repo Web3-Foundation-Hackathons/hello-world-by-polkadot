@@ -12,7 +12,7 @@ Supporting documentation for my submission.
 1. [Challenge 6: Deploying Solidity Contract On Plasm Network](#challenge-6)
 1. [Challenge 11: Set An Identity On Kusama Or Polkadot's Development Version](#challenge-11)
 1. [Challenge 12: Run A Kusama Or Polkadot Node And Add It To Telemetry](#challenge-12)
-1. [Challenge 15](#challenge-15)
+1. [Challenge 15: Challenge: Play With Westend](#challenge-15)
 1. [Challenge 16](#challenge-16)
 1. [Challenge 17](#challenge-17)
 1. [Authors](#authors)
@@ -22,13 +22,11 @@ Supporting documentation for my submission.
 
 ## Challenge 1
 
-Deploy On Moonbase Alpha Using Truffle
-...[for more details, check here](1/README.md)
+Deploy On Moonbase Alpha Using Truffle ...[for more details, check here](1/README.md)
 
 ## Challenge 6
 
-Deploying Solidity Contract On Plasm Network
-...[for more details, check here](6/README.md)
+Deploying Solidity Contract On Plasm Network ...[for more details, check here](6/README.md)
 
 ## Challenge 11
 
@@ -40,7 +38,7 @@ Run A Kusama Or Polkadot Node And Add It To Telemetry ...[for more details, chec
 
 ## Challenge 15
 
-...[for more details, check here](15/README.md)
+Challenge: Play With Westend ...[for more details, check here](15/README.md)
 
 ## Challenge 16
 
