@@ -14,7 +14,7 @@ Supporting documentation for my submission.
 1. [Challenge 12: Run A Kusama Or Polkadot Node And Add It To Telemetry](#challenge-12)
 1. [Challenge 15: Challenge: Play With Westend](#challenge-15)
 1. [Challenge 16: Run A Private Substrate Network](#challenge-16)
-1. [Challenge 17](#challenge-17)
+1. [Challenge 17: Launch A Local Substrate Development Chain](#challenge-17)
 1. [Authors](#authors)
 1. [License](#license)
 1. [Acknowledgements](#acknowledgements)
@@ -46,7 +46,7 @@ Run A Private Substrate Network ...[for more details, check here](16/README.md)
 
 ## Challenge 17
 
-...[for more details, check here](17/README.md)
+Launch A Local Substrate Development Chain ...[for more details, check here](17/README.md)
 
 ## Authors
 
