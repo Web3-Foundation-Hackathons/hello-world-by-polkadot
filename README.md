@@ -13,7 +13,7 @@ Supporting documentation for my submission.
 1. [Challenge 11: Set An Identity On Kusama Or Polkadot's Development Version](#challenge-11)
 1. [Challenge 12: Run A Kusama Or Polkadot Node And Add It To Telemetry](#challenge-12)
 1. [Challenge 15: Challenge: Play With Westend](#challenge-15)
-1. [Challenge 16](#challenge-16)
+1. [Challenge 16: Run A Private Substrate Network](#challenge-16)
 1. [Challenge 17](#challenge-17)
 1. [Authors](#authors)
 1. [License](#license)
@@ -42,7 +42,7 @@ Challenge: Play With Westend ...[for more details, check here](15/README.md)
 
 ## Challenge 16
 
-...[for more details, check here](16/README.md)
+Run A Private Substrate Network ...[for more details, check here](16/README.md)
 
 ## Challenge 17
 
