@@ -4,6 +4,8 @@ https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023953
 
 ## Solution
 
+[Solution](2020-11-08-pkrasam-deploy-on-moonbase-alpha-using-truffle.png)
+
 ### Steps
 
 - build and run a standalone node in dev mode
