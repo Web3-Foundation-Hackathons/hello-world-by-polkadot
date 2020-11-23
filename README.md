@@ -23,12 +23,12 @@ Supporting documentation for my submission.
 ## Challenge 1
 
 Deploy On Moonbase Alpha Using Truffle
-[for more details, check here](1/README.md)
+...[for more details, check here](1/README.md)
 
 ## Challenge 6
 
 Deploying Solidity Contract On Plasm Network
-[for more details, check here](6/README.md)
+...[for more details, check here](6/README.md)
 
 ## Challenge 11
 
