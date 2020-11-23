@@ -12,3 +12,4 @@ https://github.com/pkrasam/hello-world-by-polkadot/tree/main/11
 
 ### Resources
 
+https://wiki.polkadot.network/docs/en/learn-identity
