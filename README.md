@@ -1,36 +1,61 @@
-![](https://user-images.githubusercontent.com/48550657/95865108-8f7b9b80-0d66-11eb-97c5-e52360f196f8.png)
+# Hello World by Polkadot
+
+Supporting documentation for my submission.
+
+## Banner
+
+![Banner](images/hello-world-by-polkadot.png)
+
+## Contents
+
+1. [Challenge 1: Deploy On Moonbase Alpha Using Truffle](#challenge-1)
+1. [Challenge 6: Deploying Solidity Contract On Plasm Network](#challenge-6)
+1. [Challenge 11: Set An Identity On Kusama Or Polkadot's Development Version](#challenge-11)
+1. [Challenge 12: Run A Kusama Or Polkadot Node And Add It To Telemetry](#challenge-12)
+1. [Challenge 15: Challenge: Play With Westend](#challenge-15)
+1. [Challenge 16: Run A Private Substrate Network](#challenge-16)
+1. [Challenge 17: Launch A Local Substrate Development Chain](#challenge-17)
+1. [Authors](#authors)
+1. [License](#license)
+1. [Acknowledgements](#acknowledgements)
 
 
-# [Hello World! by Polkadot](https://gitcoin.co/hackathon/polkadot/onboard?utm_source=github&utm_medium=referral&utm_campaign=hello+world)
+## Challenge 1
 
-**Gitcoin has integrated [Polkadot](https://polkadot.network/) and [Kusama](https://kusama.network/) tokens (DOT and KSM) into its tech stack**, making them one of the first full integrations outside of the Ethereum ecosystem.
+Deploy On Moonbase Alpha Using Truffle ...[for more details, check here](1/README.md)
 
-To celebrate the integration on Gitcoin, we are organising **[Hello World! by Polkadot](https://gitcoin.co/hackathon/polkadot/onboard?utm_source=github&utm_medium=referral&utm_campaign=hello+world)**, a series of challenges to bring you on a journey of Polkadot development discovery.
+## Challenge 6
 
-**[Check out the kick-off webinar for more details and information.](https://www.crowdcast.io/e/gitcoin-hello-world-by-polkadot)**
+Deploying Solidity Contract On Plasm Network ...[for more details, check here](6/README.md)
 
-## Challenges and prizes 
+## Challenge 11
 
-The challenges are in four categories: (1) Beginner, (2) Intermediate, (3) Advanced, and (4) Ecosystem. The first three are written specifically for Polkadot and Kusama, whereas the Ecosystem category is made up of challenges created by Polkadot ecosystem projects. Challenge payouts are capped at 50, meaning that only the first fifty valid submissions will receive a payout.
+Set An Identity On Kusama Or Polkadot's Development Version ...[for more details, check here](11/README.md)
 
-| Challenge  | #  | Prize  | Cap  |
-|---|---|---|---|
-| Beginner  |  7  | 3 DOT  |  50 |
-| Intermediate  | 5   | 1 KSM  | 50  |
-| Advanced  | 4  | 10 DOT  | 50  |
-| Ecosystem  | 8   | 5 DOT  | 50  |
+## Challenge 12
 
-### **In addition, there is an EXTRA PRIZE of 150 DOT for the first 50 that manage to complete 18 or more challenges.**
+Run A Kusama Or Polkadot Node And Add It To Telemetry ...[for more details, check here](12/README.md)
 
-Everyone successfully solving any challenge and receiving a payout will also get an awesome piece of Polkadot swag as well as a Kusama-based NFT, issued via [RMRK](https://rmrk.app/).
+## Challenge 15
 
-## Deadlines
-- Open registrations: October 8th
-- Challenges go live: October 15th
-- Duration: 4 weeks
-- End: November 12th, or after all challenges are solved
-- Prize distribution period: up to two weeks after the event
+Challenge: Play With Westend ...[for more details, check here](15/README.md)
 
------------------------------------------
+## Challenge 16
 
-## [Head over to Hello World! by Polkadot and solve some awesome challenges!](https://gitcoin.co/hackathon/polkadot/onboard?utm_source=github&utm_medium=referral&utm_campaign=hello+world)
+Run A Private Substrate Network ...[for more details, check here](16/README.md)
+
+## Challenge 17
+
+Launch A Local Substrate Development Chain ...[for more details, check here](17/README.md)
+
+## Authors
+
+* **PK Rasam** - *Initial work* - [pkrasam](https://github.com/pkrasam)
+
+## License
+
+This is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details. For the list of projects that were used to build this, please do refer to their individual license terms.
+
+## Acknowledgments
+
+* [PK Rasam](https://github.com/pkrasam)

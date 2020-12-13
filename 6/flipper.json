@@ -1,0 +1,104 @@
+{
+  "registry": {
+    "strings": [
+      "storage",
+      "value",
+      "bool",
+      "Storage",
+      "new",
+      "initvalue",
+      "flip",
+      "get",
+      "flipper"
+    ],
+    "types": [
+      {
+        "id": {
+          "custom.name": 1,
+          "custom.namespace": [],
+          "custom.params": []
+        },
+        "def": {
+          "struct.fields": []
+        }
+      },
+      {
+        "id": "bool",
+        "def": "builtin"
+      }
+    ]
+  },
+  "storage": {
+    "struct.type": 1,
+    "struct.fields": [
+      {
+        "name": 4,
+        "layout": {
+          "struct.type": 1,
+          "struct.fields": [
+            {
+              "name": 2,
+              "layout": {
+                "range.offset": "0x0000000000000000000000000000000000000000000000000000000000000000",
+                "range.len": "1",
+                "range.elem_type": 2
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "contract": {
+    "name": 9,
+    "constructors": [
+      {
+        "name": 5,
+        "selector": "[\"0xF8\",\"0x1E\",\"0x7E\",\"0x1A\"]",
+        "docs": [
+          "Constructor that initializes the `bool` value to the given `init_value`."
+        ],
+        "args": [
+          {
+            "name": 6,
+            "type": {
+              "ty": 2,
+              "display_name": [
+                3
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "messages": [
+      {
+        "name": 7,
+        "selector": "[\"0xCD\",\"0xE4\",\"0xEF\",\"0xA9\"]",
+        "docs": [
+          "A message that can be called on instantiated contracts.",
+          "This one flips the value of the stored `bool` from `true`",
+          "to `false` and vice versa."
+        ],
+        "mutates": true,
+        "args": [],
+        "return_type": null
+      },
+      {
+        "name": 8,
+        "selector": "[\"0x6D\",\"0x4C\",\"0xE6\",\"0x3C\"]",
+        "docs": [
+          "Simply returns the current value of our `bool`."
+        ],
+        "mutates": false,
+        "args": [],
+        "return_type": {
+          "ty": 2,
+          "display_name": [
+            3
+          ]
+        }
+      }
+    ]
+  }
+}
